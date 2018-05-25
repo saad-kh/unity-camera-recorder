@@ -1,4 +1,4 @@
-# UnityCameraRecorder
+# Unity Camera Recorder
 Prototype that enables the recording of a video straight from an Unity3D Camera
 
 # Dependencies
